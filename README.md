@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: ##### mail: mughees.qasim.mq@gmail.com #####    ##### whatsapp: +923174172780 #####
 
-# I am just an ordinary person making the world a bit better place
+I am just an ordinary person making the world a bit better place
 
 <!---
 MugheesQasim/MugheesQasim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
