@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MugheesQasim
-- 👀 I’m interested in Machine Learning and Artificial Intelligence
-- 🌱 I’m currently learning deep learning on coursera
+- 👀 I’m interested in Game Development and AI
+- 🌱 I’m currently developing games and learning deep learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: ##### mail: mughees.qasim.mq@gmail.com #####    ##### whatsapp: +923174172780 #####
 
