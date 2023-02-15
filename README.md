@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mugheesqasim&label=Profile%20views&color=0e75b6&style=flat" alt="mugheesqasim" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mugheesqasim" alt="mugheesqasim" /></a> </p>
-
 - 🌱 I’m currently learning **AWS EC2 and S3**
 
 - 📝 I regularly write articles on [https://medium.com/@mugheesqasim](https://medium.com/@mugheesqasim)
