@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mughees Qasim</h1>
-<h3 align="center">Java Developer from Pakistan with 1 year experience of game development in Unity</h3>
+<h3 align="center">Java Developer with 6 months of experience in Backend development and 6 months of experience in game development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mugheesqasim&label=Profile%20views&color=0e75b6&style=flat" alt="mugheesqasim" /> </p>
 
-- 🌱 I’m currently learning **AWS EC2 and S3**
+- 🌱 I’m currently preparing for  **Java OCP Exam**
 
 - 📝 I regularly write articles on [https://medium.com/@mugheesqasim](https://medium.com/@mugheesqasim)
 
 - 📫 How to reach me **mughees.qasim.mq@gmail.com**
 
-- ⚡ Fun fact **I love reading documentations**
+- ⚡ Fun fact: **I love reading documentations**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
