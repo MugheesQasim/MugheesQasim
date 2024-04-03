@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mughees Qasim</h1>
-<h3 align="center">Java Developer with 6 months of experience in Backend development and 6 months of experience in game development.</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mugheesqasim&label=Profile%20views&color=0e75b6&style=flat" alt="mugheesqasim" /> </p>
 
-- 🌱 I’m currently preparing for  **Java OCP Exam**
+- 🌱 I’m currently reading book on system design **designing data intensive applications**
 
 - 📝 I regularly write articles on [https://medium.com/@mugheesqasim](https://medium.com/@mugheesqasim)
 
